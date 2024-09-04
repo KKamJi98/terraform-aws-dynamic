@@ -1,8 +1,8 @@
 # terraform-aws-dynamic
 
-<https://github.com/Team-S5T1>
-
 > 변동성이 큰 인프라
+
+<https://github.com/Team-S5T1>
 
 - eks
 - ec2
